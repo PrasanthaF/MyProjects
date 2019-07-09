@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+<YourSubscription>
+<Subscription Type="" Name="Visual Studio Professional">
+<SubscriptionGuid>b3b05d2e-c4ee-422e-845b-4fb638dfddb1</SubscriptionGuid>
+</Subscription>
+</YourSubscription>
+<YourKey>
+<Product_Key Name="Legacy 10-digit product key" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1">335-3353356</Key>
+</Product_Key>
+<Product_Key Name="Legacy 10-digit product key" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1">335-3353356</Key>
+</Product_Key>
+<Product_Key Name="Legacy 10-digit product key" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1">335-3353356</Key>
+</Product_Key>
+<Product_Key Name="Legacy 10-digit product key" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1">335-3353356</Key>
+</Product_Key>
+<Product_Key Name="eMbedded Visual C++ 4.0" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="5">B222J-QW36D-DPT6T-JYKPF-YB7CM</Key>
+</Product_Key>
+<Product_Key Name="Access 2003 Developer Extensions" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="16">KHCYK-2DXWD-6D4BV-9D9K6-TT9RY</Key>
+</Product_Key>
+<Product_Key Name="SQL Server 2000 Reporting Services" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="24">KRJQ8-RQ822-YRMXF-6TTXC-HD2VM</Key>
+</Product_Key>
+<Product_Key Name="Visual FoxPro (Version 7.0 and 8.0)" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="25">TCJC7-H2QDH-3T7G7-R6RTM-YRK3Y</Key>
+</Product_Key>
+<Product_Key Name="Visual FoxPro (Version 7.0 and 8.0)" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="25">TCJC7-H2QDH-3T7G7-R6RTM-YRK3Y</Key>
+</Product_Key>
+<Product_Key Name="Visual FoxPro (Version 7.0 and 8.0)" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="25">TCJC7-H2QDH-3T7G7-R6RTM-YRK3Y</Key>
+</Product_Key>
+<Product_Key Name="Visual FoxPro Professional 9.0" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="26">W7YCJ-2RRMD-MMHGG-3MB7C-VBMYB</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio .NET" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="28">D64GG-GXY6T-V6FTR-WCPBB-2YDYB</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio .NET" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="28">D64GG-GXY6T-V6FTR-WCPBB-2YDYB</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio .NET" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="28">D64GG-GXY6T-V6FTR-WCPBB-2YDYB</Key>
+</Product_Key>
+<Product_Key Name="Windows Advanced Server, Limited Edition" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="32">F3VWH-8KTY3-WR2WF-4GQQH-VCXTB</Key>
+</Product_Key>
+<Product_Key Name="Windows XP Embedded" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="105">JX4Q2-PHJ7Y-VMRG6-CR6FY-F973Y</Key>
+</Product_Key>
+<Product_Key Name="Windows XP Embedded" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="105">JX4Q2-PHJ7Y-VMRG6-CR6FY-F973Y</Key>
+</Product_Key>
+<Product_Key Name="Virtual PC for Mac 7.0" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="111">KPKV3-V9R8X-QMTGH-YXTCG-8P6HM</Key>
+</Product_Key>
+<Product_Key Name="Windows CE .NET 4.2 and 5.0" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="125">W3V42-KVVW2-RQD4D-W322G-YFBRB</Key>
+</Product_Key>
+<Product_Key Name="Windows CE .NET 4.2 and 5.0" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="125">W3V42-KVVW2-RQD4D-W322G-YFBRB</Key>
+</Product_Key>
+<Product_Key Name="Visual SourceSafe 2005" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="158">QCT3X-2D7KK-RTCPQ-GTRFK-46FWG</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded CE 6.0" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="203">CGY7J-W3X4B-CDDYQ-VWB29-BY7MT</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded CE 6.0" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="203">CGY7J-W3X4B-CDDYQ-VWB29-BY7MT</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded CE 6.0" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="203">CGY7J-W3X4B-CDDYQ-VWB29-BY7MT</Key>
+</Product_Key>
+<Product_Key Name="Identity Lifecycle Manager 2007" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="274">DFHYB-2J4Y3-JHV7Q-T42FD-T9MQY</Key>
+</Product_Key>
+<Product_Key Name="Visual Basic .NET 2003" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="303">W7YCJ-2RRMD-MMHGG-3MB7C-VBMYB</Key>
+</Product_Key>
+<Product_Key Name=".NET Micro Framework Porting Kit v3.0" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="317">C64GF-QGX43-2PMM3-KFGKM-Q66PR</Key>
+</Product_Key>
+<Product_Key Name="Automatic Graph Layout" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="331">HWQWP-RXKVP-PJ4BB-9KD87-K67H2</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Standard" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="366">XPT4M-RKVC9-4YQWT-JJP76-RBXD3</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded POSReady 2009" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="367">D4GQ7-HG48K-7YP6R-6JM4C-33FMQ</Key>
+</Product_Key>
+<Product_Key Name="Windows CE .NET 4.1" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="380">XHV63-B8QTX-F99P3-6W76G-BXQVT</Key>
+</Product_Key>
+<Product_Key Name="Services for Unix 2.0" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="381">TCJC7-H2QDH-3T7G7-R6RTM-YRK3Y</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio 2010 Professional" KeyRetrievalNote="This key converts web installers and trial DVDs to the full product. It is not required for the MSDN DVD.">
+<Key Type="Static Activation Key" ID="440">YCFHQ-9DWCY-DKV88-T2TMH-G7BHP</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio 2010 Professional" KeyRetrievalNote="This key converts web installers and trial DVDs to the full product. It is not required for the MSDN DVD.">
+<Key Type="Static Activation Key" ID="440">YCFHQ-9DWCY-DKV88-T2TMH-G7BHP</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2010" KeyRetrievalNote="This key converts web installers and trial DVDs to the full product. It is not required for the MSDN DVD.">
+<Key Type="Static Activation Key" ID="444">P2K4R-VPKVK-TKH4B-TRT6V-DW2GX</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Explorer Everywhere 2010" KeyRetrievalNote="This key converts web installers and trial DVDs to the full product. It is not required for the MSDN DVD.">
+<Key Type="Static Activation Key" ID="445">7W3RJ-4WX3R-BV8JM-FC8P7-3W7QX</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Standard 7 Toolkit" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="490">7XT84-3XQFP-YMXQF-PP96H-F74DV</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Standard 7 Runtime" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="491">MPMVY-PP762-WWVBC-83RXJ-2H7RH</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Compact 7" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="830">PW28V-TRKP8-RW8JQ-QG8MF-23C7F</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Compact 7" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="830">PW28V-TRKP8-RW8JQ-QG8MF-23C7F</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Compact 7" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="830">PW28V-TRKP8-RW8JQ-QG8MF-23C7F</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Compact 7" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="830">PW28V-TRKP8-RW8JQ-QG8MF-23C7F</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded POSReady 7" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="845">J34HH-MQ3XT-6P8J3-CQ9PT-Q86C9</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Express 2012 for Web" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="928">BWVK8-FD442-K2GCM-98B84-J8WRV</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Express 2012 for Windows 8" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="929">YCX46-9PQR6-YKMC9-2B8KQ-6CDHX</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2012" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="931">4D974-9QX42-9Y43G-YJ7JG-JDYBP</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2012" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="932">BVGTF-T7MVR-TP46H-9Q97G-XBXRB</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2012" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="932">BVGTF-T7MVR-TP46H-9Q97G-XBXRB</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2012" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="932">BVGTF-T7MVR-TP46H-9Q97G-XBXRB</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2012" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="932">BVGTF-T7MVR-TP46H-9Q97G-XBXRB</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server Express 2012" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="933">7PDGX-K8G48-99T9W-BDRH2-BG2XK</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server Express 2012" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="933">7PDGX-K8G48-99T9W-BDRH2-BG2XK</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server Express 2012" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="933">7PDGX-K8G48-99T9W-BDRH2-BG2XK</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server Express 2012" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="933">7PDGX-K8G48-99T9W-BDRH2-BG2XK</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Express 2012 for Windows Desktop" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="963">YDF6K-W7M6M-WT2G4-R474C-Y8CQF</Key>
+</Product_Key>
+<Product_Key Name="VLK Key" KeyRetrievalNote="">
+<Key Type="Custom Key" ID="1042"><p>While we offer this Volume Licensing (VL) build through Subscriber Downloads, VL customers (excluding Open License, Open Value and Open Value Subscriptions) must obtain product keys from the <a href="https://www.microsoft.com/licensing/servicecenter/home.aspx">Volume Licensing Service Center (VLSC)</a>.</p> <p>Only administrators can access keys in the <a href="https://www.microsoft.com/licensing/servicecenter/home.aspx">VLSC</a>, so please contact your organization’s administrator for this key.</p> <p>As a more immediate option or for customers that do not receive the key via VL, you can download the retail build of this product, which is available with a product key in this same section of Subscriber Downloads.</p></Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded 8 Standard Toolkit" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1062">39XMK-BGG4W-Y2GHV-7XR9X-7QP88</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded 8 Industry Pro" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1063">7XKNG-JD7W3-TKFJX-VFMVY-KD49H</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Compact 2013" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1065">MVMJ6-JR4RY-RCCKM-F49TB-TGH79</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Compact 2013" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1065">MVMJ6-JR4RY-RCCKM-F49TB-TGH79</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Compact 2013" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1065">MVMJ6-JR4RY-RCCKM-F49TB-TGH79</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Compact 2013" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1065">MVMJ6-JR4RY-RCCKM-F49TB-TGH79</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2013 (VL)" KeyRetrievalNote="It is recommended that you sign in in order to unlock Visual Studio. By signing in using the login associated with your active Visual Studio subscription, your IDE settings will sync across devices, and you can connect to online developer services. Some customers may also have access to product keys which can be used to unlock Visual Studio.">
+<Key Type="Static Activation Key" ID="1133">BBJ4B-WBV7Q-DFHJG-G97DD-GXXKR</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2013 (VL)" KeyRetrievalNote="It is recommended that you sign in in order to unlock Visual Studio. By signing in using the login associated with your active Visual Studio subscription, your IDE settings will sync across devices, and you can connect to online developer services. Some customers may also have access to product keys which can be used to unlock Visual Studio.">
+<Key Type="Static Activation Key" ID="1133">BBJ4B-WBV7Q-DFHJG-G97DD-GXXKR</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2013 (VL)" KeyRetrievalNote="It is recommended that you sign in in order to unlock Visual Studio. By signing in using the login associated with your active Visual Studio subscription, your IDE settings will sync across devices, and you can connect to online developer services. Some customers may also have access to product keys which can be used to unlock Visual Studio.">
+<Key Type="Static Activation Key" ID="1133">BBJ4B-WBV7Q-DFHJG-G97DD-GXXKR</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2013 (VL)" KeyRetrievalNote="It is recommended that you sign in in order to unlock Visual Studio. By signing in using the login associated with your active Visual Studio subscription, your IDE settings will sync across devices, and you can connect to online developer services. Some customers may also have access to product keys which can be used to unlock Visual Studio.">
+<Key Type="Static Activation Key" ID="1133">BBJ4B-WBV7Q-DFHJG-G97DD-GXXKR</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2013 (VL)" KeyRetrievalNote="It is recommended that you sign in in order to unlock Visual Studio. By signing in using the login associated with your active Visual Studio subscription, your IDE settings will sync across devices, and you can connect to online developer services. Some customers may also have access to product keys which can be used to unlock Visual Studio.">
+<Key Type="Static Activation Key" ID="1133">BBJ4B-WBV7Q-DFHJG-G97DD-GXXKR</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2013 (VL)" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1145">MHG9J-HHHX9-WWPQP-D8T7H-7KCQG</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2013 (VL)" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1145">MHG9J-HHHX9-WWPQP-D8T7H-7KCQG</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2013 (VL)" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1145">MHG9J-HHHX9-WWPQP-D8T7H-7KCQG</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2013 (VL)" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1145">MHG9J-HHHX9-WWPQP-D8T7H-7KCQG</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2013 (VL)" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1145">MHG9J-HHHX9-WWPQP-D8T7H-7KCQG</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded 8 Standard Image Builder Wizard" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="1172">NDDRT-KKVGM-D33R2-KR372-27G4Y</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2015 (VL)" KeyRetrievalNote="This key is only needed when upgrading from the Trial version of Visual Studio Team Foundation Server 2015.">
+<Key Type="Static Activation Key" ID="1287">CGXKN-MHVPF-BXRJR-KPD28-MTDWP</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2015 (VL)" KeyRetrievalNote="This key is only needed when upgrading from the Trial version of Visual Studio Team Foundation Server 2015.">
+<Key Type="Static Activation Key" ID="1287">CGXKN-MHVPF-BXRJR-KPD28-MTDWP</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2015 (VL)" KeyRetrievalNote="This key is only needed when upgrading from the Trial version of Visual Studio Team Foundation Server 2015.">
+<Key Type="Static Activation Key" ID="1287">CGXKN-MHVPF-BXRJR-KPD28-MTDWP</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2015 (VL)" KeyRetrievalNote="This key is only needed when upgrading from the Trial version of Visual Studio Team Foundation Server 2015.">
+<Key Type="Static Activation Key" ID="1287">CGXKN-MHVPF-BXRJR-KPD28-MTDWP</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Team Foundation Server 2015 (VL)" KeyRetrievalNote="This key is only needed when upgrading from the Trial version of Visual Studio Team Foundation Server 2015.">
+<Key Type="Static Activation Key" ID="1287">CGXKN-MHVPF-BXRJR-KPD28-MTDWP</Key>
+</Product_Key>
+<Product_Key Name="Windows Embedded Compact 2013" KeyRetrievalNote="">
+<Key Type="Static Activation Key" ID="10098">MVMJ6-JR4RY-RCCKM-F49TB-TGH79</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio 2017 for Mac" KeyRetrievalNote="">
+<Key Type="Custom Key" ID="10956">To activate your Professional or Enterprise license in Visual Studio for Mac, please sign in to Visual Studio for Mac using the same username and password used to access the <a href="https://my.visualstudio.com/">Visual Studio Subscriptions portal</a>.</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio 2019 for Mac" KeyRetrievalNote="">
+<Key Type="Custom Key" ID="10957">To activate your Professional or Enterprise license in Visual Studio for Mac, please sign in to Visual Studio for Mac using the same username and password used to access the <a href="https://my.visualstudio.com/">Visual Studio Subscriptions portal</a>.</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2015 (VL)" KeyRetrievalNote="Administrators deploying Visual Studio using automated scripts please follow the instructions in the <a href="https://msdn.microsoft.com/en-us/library/mt270173.aspx">Visual Studio Administrator Guide</a> on how to silently apply a product key during setup or remotely to an existing machine with Visual Studio already installed. The assigned product key can be deployed to all users granted rights to Visual Studio through this agreement.">
+<Key Type="Retail" ID="1187" notes="" ClaimedDate="1/1/0001">It is recommended that you sign in in order to unlock Visual Studio. By signing in using the login associated with your active Visual Studio subscription, your IDE settings will sync across devices, and you can connect to online developer services. Some customers may also have access to product keys which can be used to unlock Visual Studio.</Key>
+<Key Type="Retail" ID="1187" notes="" ClaimedDate="7/8/2019">6YNVF-M9M4H-8GVHW-C37JC-PGYJP</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2015 (VL)" KeyRetrievalNote="Administrators deploying Visual Studio using automated scripts please follow the instructions in the <a href="https://msdn.microsoft.com/en-us/library/mt270173.aspx">Visual Studio Administrator Guide</a> on how to silently apply a product key during setup or remotely to an existing machine with Visual Studio already installed. The assigned product key can be deployed to all users granted rights to Visual Studio through this agreement.">
+<Key Type="Retail" ID="1187" notes="" ClaimedDate="1/1/0001">It is recommended that you sign in in order to unlock Visual Studio. By signing in using the login associated with your active Visual Studio subscription, your IDE settings will sync across devices, and you can connect to online developer services. Some customers may also have access to product keys which can be used to unlock Visual Studio.</Key>
+<Key Type="Retail" ID="1187" notes="" ClaimedDate="7/8/2019">6YNVF-M9M4H-8GVHW-C37JC-PGYJP</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2015 (VL)" KeyRetrievalNote="Administrators deploying Visual Studio using automated scripts please follow the instructions in the <a href="https://msdn.microsoft.com/en-us/library/mt270173.aspx">Visual Studio Administrator Guide</a> on how to silently apply a product key during setup or remotely to an existing machine with Visual Studio already installed. The assigned product key can be deployed to all users granted rights to Visual Studio through this agreement.">
+<Key Type="Retail" ID="1187" notes="" ClaimedDate="1/1/0001">It is recommended that you sign in in order to unlock Visual Studio. By signing in using the login associated with your active Visual Studio subscription, your IDE settings will sync across devices, and you can connect to online developer services. Some customers may also have access to product keys which can be used to unlock Visual Studio.</Key>
+<Key Type="Retail" ID="1187" notes="" ClaimedDate="7/8/2019">6YNVF-M9M4H-8GVHW-C37JC-PGYJP</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2015 (VL)" KeyRetrievalNote="Administrators deploying Visual Studio using automated scripts please follow the instructions in the <a href="https://msdn.microsoft.com/en-us/library/mt270173.aspx">Visual Studio Administrator Guide</a> on how to silently apply a product key during setup or remotely to an existing machine with Visual Studio already installed. The assigned product key can be deployed to all users granted rights to Visual Studio through this agreement.">
+<Key Type="Retail" ID="1187" notes="" ClaimedDate="1/1/0001">It is recommended that you sign in in order to unlock Visual Studio. By signing in using the login associated with your active Visual Studio subscription, your IDE settings will sync across devices, and you can connect to online developer services. Some customers may also have access to product keys which can be used to unlock Visual Studio.</Key>
+<Key Type="Retail" ID="1187" notes="" ClaimedDate="7/8/2019">6YNVF-M9M4H-8GVHW-C37JC-PGYJP</Key>
+</Product_Key>
+<Product_Key Name="Windows HPC Server 2008 R2 and Windows Web Server 2008 R2" KeyRetrievalNote="">
+<Key Type="MultipleActivation" ID="349" notes="" ClaimedDate="1/1/0001">If you wish to activate the Checked Build, you may use any appropriate Windows 7 or Windows Server 2008 R2 key to which you are entitled. Note, the key you use must match the edition you have installed from this build.</Key>
+</Product_Key>
+<Product_Key Name="Windows Server 2008 R2 Standard and Enterprise" KeyRetrievalNote="">
+<Key Type="MultipleActivation" ID="348" notes="" ClaimedDate="1/1/0001">If you wish to activate the Checked Build, you may use any appropriate Windows 7 or Windows Server 2008 R2 key to which you are entitled. Note, the key you use must match the edition you have installed from this build.</Key>
+</Product_Key>
+<Product_Key Name="Windows Server 2008 R2 Datacenter and Itanium" KeyRetrievalNote="">
+<Key Type="MultipleActivation" ID="347" notes="" ClaimedDate="1/1/0001">If you wish to activate the Checked Build, you may use any appropriate Windows 7 or Windows Server 2008 R2 key to which you are entitled. Note, the key you use must match the edition you have installed from this build.</Key>
+</Product_Key>
+<Product_Key Name="Windows HPC Server 2008 R2 and Windows Web Server 2008 R2" KeyRetrievalNote="">
+<Key Type="MultipleActivation" ID="349" notes="" ClaimedDate="1/1/0001">If you wish to activate the Checked Build, you may use any appropriate Windows 7 or Windows Server 2008 R2 key to which you are entitled. Note, the key you use must match the edition you have installed from this build.</Key>
+</Product_Key>
+<Product_Key Name="Windows Server 2008 R2 Standard and Enterprise" KeyRetrievalNote="">
+<Key Type="MultipleActivation" ID="348" notes="" ClaimedDate="1/1/0001">If you wish to activate the Checked Build, you may use any appropriate Windows 7 or Windows Server 2008 R2 key to which you are entitled. Note, the key you use must match the edition you have installed from this build.</Key>
+</Product_Key>
+<Product_Key Name="Windows Server 2008 R2 Datacenter and Itanium" KeyRetrievalNote="">
+<Key Type="MultipleActivation" ID="347" notes="" ClaimedDate="1/1/0001">If you wish to activate the Checked Build, you may use any appropriate Windows 7 or Windows Server 2008 R2 key to which you are entitled. Note, the key you use must match the edition you have installed from this build.</Key>
+</Product_Key>
+<Product_Key Name="Windows HPC Server 2008 R2 and Windows Web Server 2008 R2" KeyRetrievalNote="">
+<Key Type="MultipleActivation" ID="349" notes="" ClaimedDate="1/1/0001">If you wish to activate the Checked Build, you may use any appropriate Windows 7 or Windows Server 2008 R2 key to which you are entitled. Note, the key you use must match the edition you have installed from this build.</Key>
+</Product_Key>
+<Product_Key Name="Windows Server 2008 R2 Datacenter and Itanium" KeyRetrievalNote="">
+<Key Type="MultipleActivation" ID="347" notes="" ClaimedDate="1/1/0001">If you wish to activate the Checked Build, you may use any appropriate Windows 7 or Windows Server 2008 R2 key to which you are entitled. Note, the key you use must match the edition you have installed from this build.</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2017 (VL)" KeyRetrievalNote="Administrators deploying Visual Studio using automated scripts please follow the instructions in the <a href="https://docs.microsoft.com/en-us/visualstudio/install/automatically-apply-product-keys-when-deploying-visual-studio">Visual Studio Administrator Guide</a> on how to silently apply a product key during setup or remotely to an existing machine with Visual Studio already installed. The assigned product key can be deployed to all users granted rights to Visual Studio through this agreement.">
+<Key Type="Retail" ID="1481" notes="" ClaimedDate="7/8/2019">7QPBV-GNMB9-XF2W7-4BDX3-MDXKV</Key>
+</Product_Key>
+<Product_Key Name="Visual Studio Professional 2017 (VL)" KeyRetrievalNote="Administrators deploying Visual Studio using automated scripts please follow the instructions in the <a href="https://docs.microsoft.com/en-us/visualstudio/install/automatically-apply-product-keys-when-deploying-visual-studio">Visual Studio Administrator Guide</a> on how to silently apply a product key during setup or remotely to an existing machine with Visual Studio already installed. The assigned product key can be deployed to all users granted rights to Visual Studio through this agreement.">
+<Key Type="Retail" ID="1481" notes="" ClaimedDate="7/8/2019">7QPBV-GNMB9-XF2W7-4BDX3-MDXKV</Key>
+</Product_Key>
+</YourKey>
+</root>
